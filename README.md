@@ -28,3 +28,6 @@ $ cd ArchLinux
 $ chmod +x * 
 $ ./opencv2_4_0.sh
 ```
+
+Install ZooKeeper
+Install Kafka
